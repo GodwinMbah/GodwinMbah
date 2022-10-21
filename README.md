@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Apex Code Salesforce Trailhead Challenge Solutions:</h2>
 
-- <b>Pass All Developer Challenges with my codes</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Pass All Trailhead Developer Challenges with my codes</b>
+  - [Trailhead Challenges Developer Code Factory](https://github.com/GodwinMbah/TrailheadApexCodeSolutions.git)
 
 <h2>📺 Salesforce Trailhead Portfolio</h2>
 
